@@ -1,0 +1,27 @@
+Materi 1 : Titik, Garis, Poligon
+- Body dari kapal menggunakan polygon
+- Jendela kapal menggunakan point
+
+Materi 2 : Perpotongan Garis
+- object bintang
+
+Materi 3 : Tweening
+detail bentuk kapal
+
+Materi 4 : Transformasi
+- untuk keyboard dan mouse dapat merotate dan menggeser kapal
+
+Materi 5 : 3D dan Keyboard
+- seluruh object menggunakan 3 dimensi
+- keyboard digunakan untuk menggeser kapal
+- spasi untuk animasi hujan
+
+Materi 6 : 3D dan Mouse
+- mouse digunakan untuk merotate kapal
+
+5 object:
+- dermaga
+- pulau
+- bintang
+- pelampung
+- air laut
